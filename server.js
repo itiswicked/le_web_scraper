@@ -55,7 +55,7 @@ function sortByKey(obj) {
 
 
 
-app.listen('3004');
+app.listen('3000');
 
 console.log("Magic happens on port 3000");
 
